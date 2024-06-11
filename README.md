@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently  **a first-year computer engineering student**
 
-- 🌱 I’m currently learning **mobile and cross-platform development**
+- 🌱 I’m currently learning **mobile and web development**
 
 - 👨‍💻 All of my projects are available at [Github]()
 
