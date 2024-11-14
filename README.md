@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yessin Eleuchi</h1>
 <h3 align="center">Fullstack Developer From Tunisia</h3>
 
-- 🔭 I’m currently  **a first-year computer engineering student**
+- 🔭 I’m currently  **a second-year computer engineering student**
 
 - 🌱 I’m currently learning **mobile and web development**
 
