@@ -7,7 +7,7 @@
 - 🧩 Side projects: Dental SaaS, Marqueur (FastAPI/Beanie), learning **Spring Boot (JPA/Hibernate)** & **indexing**
 - 🌱 Currently exploring **React Query (TanStack)**, **MongoDB**, **Playwright**, **Spring Boot**, and clean architecture
 - 👨‍💻 Explore my work: <a href="https://www.yessine.me" target="_blank">yessine.me</a>
-- 📫 Reach me: **yessineleuchi.embedded@gmail.com**
+- 📫 Reach me: **yessinelleuchi.software@gmail.com**
 
 ---
 
