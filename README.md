@@ -2,7 +2,7 @@
 <h3 align="center">Software engineer from Tunisia</h3>
 
 - 🎓 Final-year **Computer Engineering** student @ **IIT Sfax**
-- 💼 Actively seeking a **PFE internship (2025–2026)** in **Full-Stack / FinTech / Automation**
+- 💼 Actively seeking a **PFE internship (2025–2026)**
 - 🚀 Building **TejFlow** (React + Node/Express + MongoDB + Playwright) — automation for TEJ certificates
 - 🧩 Side projects: Dental SaaS, Marqueur (FastAPI/Beanie), learning **Spring Boot (JPA/Hibernate)** & **indexing**
 - 🌱 Currently exploring **React Query (TanStack)**, **MongoDB**, **Playwright**, **Spring Boot**, and clean architecture
