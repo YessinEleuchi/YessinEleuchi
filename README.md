@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yessin Eleuchi
 
-**Software Engineering Student · Full-Stack & Automation Developer · Tunisia 🇹🇳**
+**Final-Year Software Engineering Student · Full-Stack & Automation Developer · Tunisia 🇹🇳**
 
 ---
 
@@ -8,8 +8,8 @@
 - 🎓 Final-year **Software Engineering & Decision Intelligence** student @ **IIT Sfax**
 - 💼 Actively seeking a **PFE internship (2025–2026)**
 - 🚀 Building **TejFlow**, an automation platform for accountants (TEJ certificates)
-- 🤖 Interested in **automation, scalable backends, clean architecture, and AI-powered systems**
-- 🌱 Exploring **Spring Boot (JPA/Hibernate)**, **indexing**, **React Query (TanStack)**, and **Playwright**
+- 🤖 Passionate about **automation, scalable backends, clean architecture, and AI-powered systems**
+- 🌱 Currently exploring **Spring Boot (JPA/Hibernate)**, **indexing**, **React Query (TanStack)**, and **Playwright**
 - 🌍 Portfolio: https://www.yessine.me
 - 📫 Contact: **yessinelleuchi.software@gmail.com**
 
@@ -26,9 +26,6 @@
 **Database & Infrastructure**  
 ![DB/Infra](https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,git,github,linux)
 
-**Automation & QA**  
-![Automation](https://skillicons.dev/icons?i=playwright)
-
 ---
 
 ## 📌 Highlighted Projects
@@ -37,36 +34,30 @@
 Automates login to the Tunisian **TEJ** platform, retrieves and classifies certificates, stores metadata, and generates Excel reports.
 - Automated processing of **1,000+ certificates per client/year**
 - Gamification & points-based internal currency for accountants
-- Admin dashboards and full document lifecycle management
+- Admin dashboards and complete document lifecycle management
 
 **Stack:** React (MUI, Zustand) • Node.js/Express • MongoDB/Mongoose • Playwright • PDF & Excel automation
 
 ---
 
-### 🦷 Dental SaaS — Clinic Management System
-Appointment scheduling, notifications, and patient/dentist modules.  
-**Stack:** React • Node.js/Express • MongoDB
-
----
-
 ### 🧩 Marqueur — Banking Microservice
-Lightweight microservice for bank markers & processing.  
+Lightweight microservice for banking markers and processing.  
 **Stack:** FastAPI • Beanie • MongoDB
 
 ---
 
 ### 🚗 SmartALPR — Tunisian License Plate Recognition
-AI-powered system for detecting and recognizing Tunisian license plates under real-world conditions.  
+AI-powered system for detecting and recognizing Tunisian license plates in real-world conditions.  
 **Stack:** Python • YOLO • OpenCV • EasyOCR • FastAPI • RAG • LLM
 
 ---
 
 ## 🧠 What I Care About
-- Clean Architecture & separation of concerns
-- Automation & productivity tools
-- Scalable backend systems
+- Clean Architecture & clear separation of concerns
+- Automation and productivity-driven tools
+- Scalable, maintainable backend systems
 - Hybrid architectures: **SSR (Thymeleaf)** + **CSR (REST/React)**
-- Solving real-world problems
+- Solving real-world problems with practical engineering
 
 ---
 
