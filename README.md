@@ -35,8 +35,6 @@
 - **Marqueur** — Bank marker microservice.  
   <sub>Stack: FastAPI • Beanie (MongoDB)</sub>
 
-*(Add repo links here when public.)*
-
 ---
 
 ### 🤝 Connect with me
@@ -50,9 +48,3 @@
 </p>
 
 ---
-
-### 📈 What I’m focusing on next
-- Ship TejFlow features: token management, progress tracking UI, document classification rules, Excel exports  
-- Master **Spring Boot** concepts: Beans, DI, JPA/Hibernate, relationships, pagination, caching  
-- Improve **MongoDB indexing** and query optimization  
-- Strengthen **Playwright** testing & automation practices
