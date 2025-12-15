@@ -1,50 +1,75 @@
-<h1 align="center">Hi 👋, I'm Yessin Eleuchi</h1>
-<h3 align="center">Software engineer from Tunisia</h3>
+# Hi 👋, I'm Yessin Eleuchi
 
-- 🎓 Final-year **Computer Engineering** student @ **IIT Sfax**
+**Software Engineering Student · Full-Stack & Automation Developer · Tunisia 🇹🇳**
+
+---
+
+## 👨‍💻 About Me
+- 🎓 Final-year **Software Engineering & Decision Intelligence** student @ **IIT Sfax**
 - 💼 Actively seeking a **PFE internship (2025–2026)**
-- 🚀 Building **TejFlow** (React + Node/Express + MongoDB + Playwright) — automation for TEJ certificates
-- 🧩 Side projects: Dental SaaS, Marqueur (FastAPI/Beanie), learning **Spring Boot (JPA/Hibernate)** & **indexing**
-- 🌱 Currently exploring **React Query (TanStack)**, **MongoDB**, **Playwright**, **Spring Boot**, and clean architecture
-- 👨‍💻 Explore my work: <a href="https://www.yessine.me" target="_blank">yessine.me</a>
-- 📫 Reach me: **yessinelleuchi.software@gmail.com**
+- 🚀 Building **TejFlow**, an automation platform for accountants (TEJ certificates)
+- 🤖 Interested in **automation, scalable backends, clean architecture, and AI-powered systems**
+- 🌱 Exploring **Spring Boot (JPA/Hibernate)**, **indexing**, **React Query (TanStack)**, and **Playwright**
+- 🌍 Portfolio: https://www.yessine.me
+- 📫 Contact: **yessinelleuchi.software@gmail.com**
 
 ---
 
-### 🔧 Tech Stack
-<p>
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" />
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,fastapi" />
-  <!-- DB / Infra -->
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,linux,docker" />
-  <!-- QA / Automation -->
-  <img src="https://skillicons.dev/icons?i=playwright" />
-</p>
+## 🔧 Tech Stack
+
+**Frontend**  
+![Frontend](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind)
+
+**Backend**  
+![Backend](https://skillicons.dev/icons?i=nodejs,express,java,spring,python,fastapi,laravel)
+
+**Database & Infrastructure**  
+![DB/Infra](https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,git,github,linux)
+
+**Automation & QA**  
+![Automation](https://skillicons.dev/icons?i=playwright)
 
 ---
 
-### 📌 Highlighted Projects
-- **TejFlow** — Automates TEJ login, downloads & classifies certificates, stores metadata, and exports Excel.  
-  <sub>Stack: React (MUI, Zustand) • Node/Express • MongoDB/Mongoose • Playwright • PDF/Excel</sub>
+## 📌 Highlighted Projects
 
-- **Dental SaaS** — Appointments, notifications, patient/dentist modules.  
-  <sub>Stack: React • Node/Express • MongoDB</sub>
+### 🚀 TejFlow — Automation Platform for Accountants
+Automates login to the Tunisian **TEJ** platform, retrieves and classifies certificates, stores metadata, and generates Excel reports.
+- Automated processing of **1,000+ certificates per client/year**
+- Gamification & points-based internal currency for accountants
+- Admin dashboards and full document lifecycle management
 
-- **Marqueur** — Bank marker microservice.  
-  <sub>Stack: FastAPI • Beanie (MongoDB)</sub>
+**Stack:** React (MUI, Zustand) • Node.js/Express • MongoDB/Mongoose • Playwright • PDF & Excel automation
+
+---
+
+### 🦷 Dental SaaS — Clinic Management System
+Appointment scheduling, notifications, and patient/dentist modules.  
+**Stack:** React • Node.js/Express • MongoDB
 
 ---
 
-### 🤝 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/eleuchi-yessin" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://facebook.com/eleuchi.yessin" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-</p>
+### 🧩 Marqueur — Banking Microservice
+Lightweight microservice for bank markers & processing.  
+**Stack:** FastAPI • Beanie • MongoDB
 
 ---
+
+### 🚗 SmartALPR — Tunisian License Plate Recognition
+AI-powered system for detecting and recognizing Tunisian license plates under real-world conditions.  
+**Stack:** Python • YOLO • OpenCV • EasyOCR • FastAPI • RAG • LLM
+
+---
+
+## 🧠 What I Care About
+- Clean Architecture & separation of concerns
+- Automation & productivity tools
+- Scalable backend systems
+- Hybrid architectures: **SSR (Thymeleaf)** + **CSR (REST/React)**
+- Solving real-world problems
+
+---
+
+## 🤝 Connect with Me
+- LinkedIn: https://linkedin.com/in/eleuchi-yessin
+- Facebook: https://facebook.com/eleuchi.yessin
